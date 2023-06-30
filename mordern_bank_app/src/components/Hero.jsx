@@ -41,7 +41,7 @@ const Hero = () => {
         </p>
       </div>
 
-      {/* THIS IS FOR THE MOBILE DEVICES. */}
+      {/* THIS IS FOR THE MOBILE DEVICES AND GRADIENTS. */}
       <div
         className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}
       >
